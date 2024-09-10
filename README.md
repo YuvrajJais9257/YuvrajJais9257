@@ -3,7 +3,7 @@
 
 **Yuvraj Jaiswal**  
 
-👋 Hi, I'm Yuvraj Jaiswal, a 21-year-old B.Tech student specializing in **full-stack web development** with a focus on **React.js** for frontend and **Node.js with MongoDB** for backend development.  
+👋 Hi, I'm Yuvraj Jaiswal, a  B.Tech student specializing in **full-stack web development** with a focus on **React.js** for frontend and **Node.js with MongoDB** for backend development.  
 
 🌟 I have a strong passion for building efficient, scalable, and user-centric web applications. My most notable **frontend projects** include an **e-commerce web store** and a **Pokémon memory card game**. On the **backend**, I've developed a **blog website** and a **weather forecasting application** using Node.js and MongoDB.
 
