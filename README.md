@@ -1,5 +1,3 @@
----
-
 # **About Me**  
 
 **👋 Hi, I'm Yuvraj Jaiswal — Full Stack Developer | Software Engineer**  
@@ -26,5 +24,3 @@
 🔧 **Recent Focus:** Strengthened skills in **SQL**, backend logic, and **data structures & algorithms** using Java.  
 
 💡 Continuously learning, problem-solving, and collaborating to build innovative solutions. Let’s connect and create impactful software together!  
-
----
