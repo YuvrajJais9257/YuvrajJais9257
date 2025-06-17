@@ -2,53 +2,91 @@
 
 I'm a software developer with 1.3 years of hands-on experience in building, deploying, and maintaining scalable full stack applications. I specialize in **Python (Flask, FastAPI)**, **React.js**, and **cloud-based deployment** using platforms like Render, Vercel, and Netlify.
 
+🌐 **Portfolio:** [https://yuvrajjaiswal-dev.vercel.app](https://yuvrajjaiswal-dev.vercel.app)
+
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, HTML5, JavaScript
-- **Backend:** Flask, FastAPI, Node.js, PHP
-- **Databases:** PostgreSQL, MongoDB, Firebase, SQLite
-- **Automation & Testing:** Selenium, Postman, REST API suites
-- **DevOps & Deployment:** Docker, Gunicorn, Render, Netlify, Vercel
+
+* **Frontend:** React.js, Tailwind CSS, HTML5, JavaScript
+* **Backend:** Flask, FastAPI, Node.js, PHP
+* **Databases:** PostgreSQL, MongoDB, Firebase, SQLite
+* **Automation & Testing:** Selenium, Postman, REST API suites
+* **DevOps & Deployment:** Docker, Gunicorn, Render, Netlify, Vercel
 
 ---
 
-## 🔧 Key Projects
+## 🔧 Highlighted Projects
 
-1. **🔬 Blog Platform with User Auth**  
-   A full-stack blog platform using Flask + PostgreSQL with CRUD features, user roles, and admin panel.
+### 🔵 Full Stack
 
-2. **📡 Internal API Testing Tool (Postman Clone)**  
-   Built a REST client to test GET/POST/PUT/DELETE requests, simulating Postman for internal API debugging.
+#### 1. Asset Monitoring Dashboard
 
-3. **📍 Cafe Finder App (React + Flask)**  
-   A responsive search/filter platform integrated with Flask backend, JWT login, and REST APIs.
+Real-time system built with **MERN stack + Python** for dynamic asset visibility.
+**Tech:** React, Node.js, MongoDB, Python
+📌 [Code](https://github.com/YuvrajJais9257/asset-monitoring-dashboard) | 🔗 [Live Demo](https://hyphenview.in)
 
-4. **🧠 Google Play Store Analytics**  
-   Used Pandas and Plotly to analyze trends across 5K+ apps—pricing, category, reviews, and ratings.
+#### 2. Blog Platform with Authentication
 
-5. **📈 Expense Tracker – React + Firebase**  
-   Real-time expense logging app with Google Auth and Firebase database integration.
+Full-featured **Flask + PostgreSQL** blog system with role-based access, post CRUD, and secure password hashing.
+**Tech:** Flask, SQLAlchemy, PostgreSQL
+📌 [Code](https://github.com/YuvrajJais9257/blog-with-users-flask) | 🔗 [Live Demo](https://blog-users-flask.onrender.com)
 
-6. **📬 Reminder App – MERN + Push Notifications**  
-   Task manager with secure CRUD, email alerts, and role-based access.
+#### 3. Cafe Finder Platform
 
----
-
-## 📌 Certifications
-- 100 Days of Code with Python (Angela Yu, Udemy)
-- DSA in Java (Coding Ninjas)
-- Python DSA + LeetCode Series (Scott Barrett)
-- Full Stack Web Dev (Hitesh Choudhary)
-- AI, Cloud & ML Foundations (Wipro, Infosys, Cisco)
+Decoupled app with **React frontend** and **Flask backend**, with JWT auth and café filtering.
+**Tech:** React, Flask, REST API, JWT
+📌 [Code](https://github.com/YuvrajJais9257/cafe-react-flask-auth) | 🔗 [Live Demo](https://cafefinder-users.vercel.app)
 
 ---
 
-## 💡 Currently Focused On
-Improving DSA skills in Java, backend architecture, and API-driven development. Exploring more advanced CI/CD, containerization, and system design patterns.
+### 🧪 DevTools
+
+#### 4. Internal API Testing Suite
+
+Postman-style REST client for internal API testing, cutting QA cycles by 60%.
+**Tech:** Flask, REST Client, JSON handling
+📌 [Code](https://github.com/YuvrajJais9257/flask-api-tester) | 🔗 [Live Demo](https://apitester-flask.onrender.com)
 
 ---
 
-📫 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/yuvraj-jaiswal-65ab5a217/) • [GitHub](https://github.com/YuvrajJais9257) • [Email](mailto:yuvraj8257@gmail.com)
+### 📊 Data Science
 
+#### 5. Google Play Store Analytics
+
+Analyzed 5K+ apps using Pandas, Seaborn, and Plotly.
+**Tech:** Python, Pandas, Plotly, Seaborn
+📌 [Code](https://github.com/YuvrajJais9257/google-playstore-eda) | 🔗 [Live Demo](https://playstore-app-data.vercel.app)
+
+#### 6. Lego Data Analysis
+
+Explored Lego dataset trends: part count, themes, and release years.
+**Tech:** Python, Pandas, Matplotlib, Seaborn
+📌 [Code](https://github.com/YuvrajJais9257/lego-data-analysis)
+
+---
+
+## 📜 Certifications
+
+* 100 Days of Code with Python (Angela Yu, Udemy)
+* DSA in Java (Coding Ninjas)
+* Python DSA + LeetCode Series (Scott Barrett)
+* Full Stack Web Dev (Hitesh Choudhary)
+* AI, Cloud & ML Foundations (Wipro, Infosys, Cisco)
+
+---
+
+## 💡 Currently Exploring
+
+* System Design patterns, scalable backend architectures
+* Advanced CI/CD pipelines and containerization (Docker + GitHub Actions)
+* Real-world case studies for automation and data analytics
+
+---
+
+## 📫 Let's Connect
+
+* 📧 Email: [yuvraj8257@gmail.com](mailto:yuvraj8257@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/yuvraj-jaiswal-65ab5a217](https://www.linkedin.com/in/yuvraj-jaiswal-65ab5a217/)
+* 💻 GitHub: [github.com/YuvrajJais9257](https://github.com/YuvrajJais9257)
+* 🌐 Portfolio: [yuvrajjaiswal-dev.vercel.app](https://yuvrajjaiswal-dev.vercel.app)
