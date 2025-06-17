@@ -1,26 +1,54 @@
-# **About Me**  
+# 👋 Hi, I'm Yuvraj Jaiswal — Full Stack Developer | Backend Engineer
 
-**👋 Hi, I'm Yuvraj Jaiswal — Full Stack Developer | Software Engineer**  
+I'm a software developer with 1.3 years of hands-on experience in building, deploying, and maintaining scalable full stack applications. I specialize in **Python (Flask, FastAPI)**, **React.js**, and **cloud-based deployment** using platforms like Render, Vercel, and Netlify.
 
-🚀 Passionate about designing and developing **scalable, user-friendly web applications**. I specialize in building robust solutions using:  
-- **Frontend:** React.js  
-- **Backend:** Node.js, MongoDB, SQL  
-- **Full Stack Development:** MERN stack with real-time integration  
+---
 
-### **Key Projects:**  
-1. **Postman Clone:** Demonstrates expertise in APIs, authentication methods, and software testing.  
-2. **Asset Monitoring Software:** Showcases database handling, backend development, and user interface design.  
-3. **OAuth API Integration (Nonce, Timestamp, Token Handling):** Highlights strong backend development and security principles.  
-4. **E-commerce Platform:** Versatile project showcasing front-end and back-end development, user experience, and payment logic.  
-5. **U.S. States Guessing Game (Turtle Graphics):** Demonstrates problem-solving skills and graphical libraries in Python.  
-6. **Higher-Lower Game:** Provides experience in dynamic front-end components and interactive applications.  
-7. **Interactive Turtle Race Game:** Displays event-driven programming and user-interactive development skills.  
-8. **GUI-Based Tkinter Widgets & Forms Projects:** Useful for showcasing basic GUI development skills in Python.  
-9. **Coffee Machine Project:** Illustrates understanding of hardware/software interaction concepts (Embedded/IoT relevance).  
-10. **Number Guessing Game, Calculator, and Blackjack:** Logic-based projects that strengthen programming basics.  
-11. **Rock-Paper-Scissors and Hangman Games:** Basic projects for reinforcing game logic and beginner programming.  
-12. **Tip Calculator and Band Name Generator:** Simple beginner projects with limited industry impact.  
+## 🚀 Tech Stack
+- **Frontend:** React.js, Tailwind CSS, HTML5, JavaScript
+- **Backend:** Flask, FastAPI, Node.js, PHP
+- **Databases:** PostgreSQL, MongoDB, Firebase, SQLite
+- **Automation & Testing:** Selenium, Postman, REST API suites
+- **DevOps & Deployment:** Docker, Gunicorn, Render, Netlify, Vercel
 
-🔧 **Recent Focus:** Strengthened skills in **SQL**, backend logic, and **data structures & algorithms** using Java.  
+---
 
-💡 Continuously learning, problem-solving, and collaborating to build innovative solutions. Let’s connect and create impactful software together!  
+## 🔧 Key Projects
+
+1. **🔬 Blog Platform with User Auth**  
+   A full-stack blog platform using Flask + PostgreSQL with CRUD features, user roles, and admin panel.
+
+2. **📡 Internal API Testing Tool (Postman Clone)**  
+   Built a REST client to test GET/POST/PUT/DELETE requests, simulating Postman for internal API debugging.
+
+3. **📍 Cafe Finder App (React + Flask)**  
+   A responsive search/filter platform integrated with Flask backend, JWT login, and REST APIs.
+
+4. **🧠 Google Play Store Analytics**  
+   Used Pandas and Plotly to analyze trends across 5K+ apps—pricing, category, reviews, and ratings.
+
+5. **📈 Expense Tracker – React + Firebase**  
+   Real-time expense logging app with Google Auth and Firebase database integration.
+
+6. **📬 Reminder App – MERN + Push Notifications**  
+   Task manager with secure CRUD, email alerts, and role-based access.
+
+---
+
+## 📌 Certifications
+- 100 Days of Code with Python (Angela Yu, Udemy)
+- DSA in Java (Coding Ninjas)
+- Python DSA + LeetCode Series (Scott Barrett)
+- Full Stack Web Dev (Hitesh Choudhary)
+- AI, Cloud & ML Foundations (Wipro, Infosys, Cisco)
+
+---
+
+## 💡 Currently Focused On
+Improving DSA skills in Java, backend architecture, and API-driven development. Exploring more advanced CI/CD, containerization, and system design patterns.
+
+---
+
+📫 **Let's connect:**  
+[LinkedIn](https://www.linkedin.com/in/yuvraj-jaiswal-65ab5a217/) • [GitHub](https://github.com/YuvrajJais9257) • [Email](mailto:yuvraj8257@gmail.com)
+
