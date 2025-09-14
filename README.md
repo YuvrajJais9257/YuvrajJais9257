@@ -1,92 +1,124 @@
-# 👋 Hi, I'm Yuvraj Jaiswal — Full Stack Developer | Backend Engineer
+# 👋 Hi, I'm Yuvraj Jaiswal — Full Stack Developer | Enterprise Solutions Engineer
 
-I'm a software developer with 1.3 years of hands-on experience in building, deploying, and maintaining scalable full stack applications. I specialize in **Python (Flask, FastAPI)**, **React.js**, and **cloud-based deployment** using platforms like Render, Vercel, and Netlify.
+I'm a Full Stack Developer with **1.5 years of professional experience** at Erasmith Pvt Ltd, specializing in building scalable enterprise applications and optimizing system performance. I've successfully deployed **100+ projects** across cloud platforms and consistently delivered measurable business impact.
 
 🌐 **Portfolio:** [https://yuvrajjaiswal-dev.vercel.app](https://yuvrajjaiswal-dev.vercel.app)
 
 ---
 
 ## 🚀 Tech Stack
-
-* **Frontend:** React.js, Tailwind CSS, HTML5, JavaScript
-* **Backend:** Flask, FastAPI, Node.js, PHP
-* **Databases:** PostgreSQL, MongoDB, Firebase, SQLite
-* **Automation & Testing:** Selenium, Postman, REST API suites
-* **DevOps & Deployment:** Docker, Gunicorn, Render, Netlify, Vercel
+* **Frontend:** React.js, Redux, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap
+* **Backend:** FastAPI, Flask, Node.js, Express.js, PHP, RESTful APIs
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+* **DevOps & Cloud:** Docker, Kubernetes, Terraform, Nginx, CI/CD pipelines
+* **Deployment:** Netlify, Vercel, Render, DigitalOcean
+* **Testing & Tools:** Postman, Selenium, Swagger, Git, Agile/Scrum
 
 ---
 
-## 🔧 Highlighted Projects
+## 💼 Professional Highlights
 
-### 🔵 Full Stack
+### 🏢 Current Role: Full Stack Developer @ Erasmith Pvt Ltd
+- **HyphenView Enhancement**: Refactored enterprise dashboard (FastAPI + React/Redux) with AI-powered SQL query builder and role-based access control
+- **Performance Optimization**: Achieved 45% performance improvement through database query optimization and efficient state management
+- **HyphenDesk Support System**: Built ticket management system handling 500+ tickets/month, reducing response time by 40%
+- **Automation Success**: Streamlined reporting workflows, saving 10+ hours weekly for operations teams
+- **Quality Assurance**: Designed Flask-based API testing suite, reducing QA cycles by 60%
 
-#### 1. Asset Monitoring Dashboard
+---
 
-Real-time system built with **MERN stack + Python** for dynamic asset visibility.
-**Tech:** React, Node.js, MongoDB, Python
-📌 [Code](https://github.com/YuvrajJais9257/asset-monitoring-dashboard) | 🔗 [Live Demo](https://hyphenview.in)
+## 🔧 Featured Projects
 
-#### 2. Blog Platform with Authentication
+### 🔵 Enterprise Applications
+#### 1. HyphenView Dashboard (Professional Project)
+Enterprise reporting dashboard with AI-powered SQL builder, KPI customization, and real-time analytics.
+**Tech:** FastAPI, React, Redux, PostgreSQL, Highcharts
+🔗 **Live:** Internal Erasmith platform | 📊 **Impact:** Improved reporting accuracy & internal adoption
 
-Full-featured **Flask + PostgreSQL** blog system with role-based access, post CRUD, and secure password hashing.
+#### 2. Inventory Management System (Professional Project)
+Pivot-style inventory manager with dynamic filters and expandable views, integrated into Hyphen platform.
+**Tech:** FastAPI, React, Redux, PostgreSQL
+🔗 **Status:** Production system for asset/infrastructure tracking
+
+#### 3. HyphenDesk Support System (Professional Project)
+Enterprise support ticketing system with role-based access and automated workflows.
+**Tech:** PHP, MySQL, jQuery
+📊 **Impact:** 500+ tickets/month, 40% response time reduction
+
+---
+
+### 🛠 Personal & Open Source Projects
+#### 4. Online Shop Platform
+E-commerce platform with authentication, payment integration, and product catalog management.
+**Tech:** Flask, SQLAlchemy, PostgreSQL
+📌 [Code](https://github.com/YuvrajJais9257/online-shop-flask) | 🔗 [Live Demo](https://online-shop-flask.onrender.com)
+
+#### 5. Blog Platform with Authentication
+Full-featured blog system with user management, post CRUD operations, and secure authentication.
 **Tech:** Flask, SQLAlchemy, PostgreSQL
 📌 [Code](https://github.com/YuvrajJais9257/blog-with-users-flask) | 🔗 [Live Demo](https://blog-users-flask.onrender.com)
 
-#### 3. Cafe Finder Platform
-
-Decoupled app with **React frontend** and **Flask backend**, with JWT auth and café filtering.
-**Tech:** React, Flask, REST API, JWT
-📌 [Code](https://github.com/YuvrajJais9257/cafe-react-flask-auth) | 🔗 [Live Demo](https://cafefinder-users.vercel.app)
-
----
-
-### 🧪 DevTools
-
-#### 4. Internal API Testing Suite
-
-Postman-style REST client for internal API testing, cutting QA cycles by 60%.
+#### 6. API Testing Suite
+Internal development tool for REST API testing and validation.
 **Tech:** Flask, REST Client, JSON handling
 📌 [Code](https://github.com/YuvrajJais9257/flask-api-tester) | 🔗 [Live Demo](https://apitester-flask.onrender.com)
 
 ---
 
-### 📊 Data Science
+### 📊 Data Analytics Projects
+#### 7. Nobel Prize Data Analysis
+Interactive visualization of global Nobel Prize trends with statistical insights.
+**Tech:** Python, Pandas, Plotly, Seaborn
+📌 [Code](https://github.com/YuvrajJais9257/nobel-prize-analysis) | 🔗 [Live Demo](https://nobel-data-analysis.vercel.app)
 
-#### 5. Google Play Store Analytics
-
-Analyzed 5K+ apps using Pandas, Seaborn, and Plotly.
+#### 8. Google Play Store Analytics
+Comprehensive analysis of 5K+ mobile applications with trend visualization.
 **Tech:** Python, Pandas, Plotly, Seaborn
 📌 [Code](https://github.com/YuvrajJais9257/google-playstore-eda) | 🔗 [Live Demo](https://playstore-app-data.vercel.app)
 
-#### 6. Lego Data Analysis
+---
 
-Explored Lego dataset trends: part count, themes, and release years.
-**Tech:** Python, Pandas, Matplotlib, Seaborn
-📌 [Code](https://github.com/YuvrajJais9257/lego-data-analysis)
+## 📈 Key Achievements
+- 🚀 **100+ Deployed Projects** across multiple cloud platforms
+- 📊 **45% Performance Improvement** through optimization strategies
+- 🎫 **500+ Tickets/Month** managed through custom support system
+- ⚡ **60% QA Cycle Reduction** via automated testing solutions
+- 🔄 **10+ Hours Weekly** saved through workflow automation
 
 ---
 
 ## 📜 Certifications
-
-* 100 Days of Code with Python (Angela Yu, Udemy)
-* DSA in Java (Coding Ninjas)
-* Python DSA + LeetCode Series (Scott Barrett)
-* Full Stack Web Dev (Hitesh Choudhary)
-* AI, Cloud & ML Foundations (Wipro, Infosys, Cisco)
+* **Docker Mastery**: with Kubernetes + Swarm (Bret Fisher)
+* **Terraform**: The Complete Guide (Lauro Fialho Müller)
+* **100 Days of Code with Python** (Angela Yu, Udemy)
+* **Complete Web Development Bootcamp** (Hitesh Choudhary)
+* **Python Data Structures & Algorithms** (Scott Barrett)
+* **DSA in Java** (Coding Ninjas)
 
 ---
 
 ## 💡 Currently Exploring
+* Advanced system design patterns for enterprise applications
+* Kubernetes orchestration and advanced DevOps practices
+* AI/ML integration in web applications
+* Performance optimization at scale
 
-* System Design patterns, scalable backend architectures
-* Advanced CI/CD pipelines and containerization (Docker + GitHub Actions)
-* Real-world case studies for automation and data analytics
+---
+
+## 🎯 Open To
+* **Full Stack Developer** roles
+* **MERN Stack Developer** positions
+* **Backend Engineer** opportunities
+* **Software Engineer** roles in product companies
 
 ---
 
 ## 📫 Let's Connect
+* 📧 **Email:** [yuvraj8257@gmail.com](mailto:yuvraj8257@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/yuvraj-jaiswal-65ab5a217](https://www.linkedin.com/in/yuvraj-jaiswal-65ab5a217/)
+* 📱 **Phone:** +91-7838379576
+* 🌐 **Portfolio:** [yuvrajjaiswal-dev.vercel.app](https://yuvrajjaiswal-dev.vercel.app)
 
-* 📧 Email: [yuvraj8257@gmail.com](mailto:yuvraj8257@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/yuvraj-jaiswal-65ab5a217](https://www.linkedin.com/in/yuvraj-jaiswal-65ab5a217/)
-* 💻 GitHub: [github.com/YuvrajJais9257](https://github.com/YuvrajJais9257)
-* 🌐 Portfolio: [yuvrajjaiswal-dev.vercel.app](https://yuvrajjaiswal-dev.vercel.app)
+---
+
+⭐ **Fun Fact:** I've containerized and deployed applications using Docker across multiple cloud platforms, and I'm passionate about building solutions that make a real difference in business operations!
