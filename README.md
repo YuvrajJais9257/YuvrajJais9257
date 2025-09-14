@@ -51,17 +51,16 @@ Enterprise support ticketing system with role-based access and automated workflo
 #### 4. Online Shop Platform
 E-commerce platform with authentication, payment integration, and product catalog management.
 **Tech:** Flask, SQLAlchemy, PostgreSQL
-📌 [Code](https://github.com/YuvrajJais9257/online-shop-flask) | 🔗 [Live Demo](https://online-shop-flask.onrender.com)
+
 
 #### 5. Blog Platform with Authentication
 Full-featured blog system with user management, post CRUD operations, and secure authentication.
 **Tech:** Flask, SQLAlchemy, PostgreSQL
-📌 [Code](https://github.com/YuvrajJais9257/blog-with-users-flask) | 🔗 [Live Demo](https://blog-users-flask.onrender.com)
 
 #### 6. API Testing Suite
 Internal development tool for REST API testing and validation.
 **Tech:** Flask, REST Client, JSON handling
-📌 [Code](https://github.com/YuvrajJais9257/flask-api-tester) | 🔗 [Live Demo](https://apitester-flask.onrender.com)
+
 
 ---
 
@@ -69,12 +68,12 @@ Internal development tool for REST API testing and validation.
 #### 7. Nobel Prize Data Analysis
 Interactive visualization of global Nobel Prize trends with statistical insights.
 **Tech:** Python, Pandas, Plotly, Seaborn
-📌 [Code](https://github.com/YuvrajJais9257/nobel-prize-analysis) | 🔗 [Live Demo](https://nobel-data-analysis.vercel.app)
+
 
 #### 8. Google Play Store Analytics
 Comprehensive analysis of 5K+ mobile applications with trend visualization.
 **Tech:** Python, Pandas, Plotly, Seaborn
-📌 [Code](https://github.com/YuvrajJais9257/google-playstore-eda) | 🔗 [Live Demo](https://playstore-app-data.vercel.app)
+
 
 ---
 
