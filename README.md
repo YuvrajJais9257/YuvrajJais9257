@@ -81,7 +81,7 @@ Building production-grade web applications with measurable business impact. Spec
 
 ## 🎯 Key Achievements
 
-```javascript
+```
 const achievements = {
   productionApps: "100+ deployed",
   performanceGain: "45% improvement (12s → 6.6s)",
@@ -109,7 +109,7 @@ const achievements = {
 
 ## 🔥 Current Focus
 
-```python
+```
 current_focus = {
     "learning": ["Next.js 14", "AI Integration (OpenAI/Claude APIs)", "Advanced React Patterns"],
     "building": ["AI-powered web applications", "Performance optimization"],
@@ -237,7 +237,7 @@ current_focus = {
 
 ## 🎯 Open To Opportunities
 
-```typescript
+```
 interface JobPreferences {
   roles: ["Full Stack Developer", "React.js Developer", "Backend Engineer"];
   companies: ["Product-based", "AI Startups", "High-growth companies"];
