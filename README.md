@@ -32,48 +32,44 @@ I'm a Full Stack Developer with **1.5 years of professional experience** at Eras
 ### 🔵 Enterprise Applications
 #### 1. HyphenView Dashboard (Professional Project)
 Enterprise reporting dashboard with AI-powered SQL builder, KPI customization, and real-time analytics.
-**Tech:** FastAPI, React, Redux, PostgreSQL, Highcharts
+**Tech:** FastAPI, React, Redux, PostgreSQL, Highcharts  
 🔗 **Live:** Internal Erasmith platform | 📊 **Impact:** Improved reporting accuracy & internal adoption
 
 #### 2. Inventory Management System (Professional Project)
-Pivot-style inventory manager with dynamic filters and expandable views, integrated into Hyphen platform.
-**Tech:** FastAPI, React, Redux, PostgreSQL
+Pivot-style inventory manager with dynamic filters and expandable views, integrated into Hyphen platform.  
+**Tech:** FastAPI, React, Redux, PostgreSQL  
 🔗 **Status:** Production system for asset/infrastructure tracking
 
 #### 3. HyphenDesk Support System (Professional Project)
-Enterprise support ticketing system with role-based access and automated workflows.
-**Tech:** PHP, MySQL, jQuery
+Enterprise support ticketing system with role-based access and automated workflows.  
+**Tech:** PHP, MySQL, jQuery  
 📊 **Impact:** 500+ tickets/month, 40% response time reduction
 
 ---
 
 ### 🛠 Personal & Open Source Projects
 #### 4. Online Shop Platform
-E-commerce platform with authentication, payment integration, and product catalog management.
+E-commerce platform with authentication, payment integration, and product catalog management.  
 **Tech:** Flask, SQLAlchemy, PostgreSQL
 
-
 #### 5. Blog Platform with Authentication
-Full-featured blog system with user management, post CRUD operations, and secure authentication.
+Full-featured blog system with user management, post CRUD operations, and secure authentication.  
 **Tech:** Flask, SQLAlchemy, PostgreSQL
 
 #### 6. API Testing Suite
-Internal development tool for REST API testing and validation.
+Internal development tool for REST API testing and validation.  
 **Tech:** Flask, REST Client, JSON handling
-
 
 ---
 
 ### 📊 Data Analytics Projects
 #### 7. Nobel Prize Data Analysis
-Interactive visualization of global Nobel Prize trends with statistical insights.
+Interactive visualization of global Nobel Prize trends with statistical insights.  
 **Tech:** Python, Pandas, Plotly, Seaborn
-
 
 #### 8. Google Play Store Analytics
-Comprehensive analysis of 5K+ mobile applications with trend visualization.
+Comprehensive analysis of 5K+ mobile applications with trend visualization.  
 **Tech:** Python, Pandas, Plotly, Seaborn
-
 
 ---
 
