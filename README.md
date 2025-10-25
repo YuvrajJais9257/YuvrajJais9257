@@ -79,18 +79,12 @@ Building production-grade web applications with measurable business impact. Spec
 
 ---
 
-## 🎯 Key Achievements
-
-```
-const achievements = {
-  productionApps: "100+ deployed",
-  performanceGain: "45% improvement (12s → 6.6s)",
-  qaOptimization: "60% faster testing cycles",
-  timeSaved: "10+ hours/week through automation",
-  systemScale: "1000+ active users served",
-  ticketVolume: "500+ tickets/month managed"
-};
-```
+## 📈 Key Achievements
+- 🚀 **100+ Deployed Projects** across multiple cloud platforms
+- 📊 **45% Performance Improvement** through optimization strategies
+- 🎫 **500+ Tickets/Month** managed through custom support system
+- ⚡ **60% QA Cycle Reduction** via automated testing solutions
+- 🔄 **10+ Hours Weekly** saved through workflow automation
 
 ---
 
@@ -108,15 +102,10 @@ const achievements = {
 ---
 
 ## 🔥 Current Focus
-
-```
-current_focus = {
-    "learning": ["Next.js 14", "AI Integration (OpenAI/Claude APIs)", "Advanced React Patterns"],
-    "building": ["AI-powered web applications", "Performance optimization"],
-    "exploring": ["LLM integration", "Real-time systems", "System design at scale"],
-    "seeking": "Full Stack roles in product companies (₹12-20 LPA)"
-}
-```
+* Learning Next.js 14, AI Integration (OpenAI/ Claude APIs), Advanced React Patterns.
+* Building AI-powered web applications, performance optimization.
+* Exploring LLM Integration, Real-time systems, System desugn at scale.
+* Seeking Full Stack roles in companies (₹12-20 LPA) 
 
 ---
 
@@ -236,17 +225,10 @@ current_focus = {
 ---
 
 ## 🎯 Open To Opportunities
-
-```
-interface JobPreferences {
-  roles: ["Full Stack Developer", "React.js Developer", "Backend Engineer"];
-  companies: ["Product-based", "AI Startups", "High-growth companies"];
-  locations: ["Remote", "Noida", "Bangalore", "Gurgaon", "Delhi NCR"];
-  expectedCTC: "₹12-20 LPA";
-  noticePeriod: "Immediate to 15 days";
-  interests: ["AI Integration", "System Design", "Performance Optimization"];
-}
-```
+* **Full Stack Developer**, **React.js Developer**, **Backend Engineer** roles.
+* In Product-based, AI Startups, High-growth companies.
+* Willing to work/ relocate to Remote, Noida, Bangalore, Gurgaon, Delhi NCR.
+* Interested in AI Integration, System Design, Performance Optimization.
 
 ---
 
