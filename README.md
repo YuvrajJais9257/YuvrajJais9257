@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yuvraj Jaiswal
 
-**Full Stack Developer** | React.js + FastAPI | AI-Integrated Systems  
-**1.8+ Years Experience | Enterprise Product Development**
+**Full Stack Engineer** | React.js + FastAPI | AI-Integrated Systems  
+**2 Years Experience | Enterprise Product Development**
 
 I build **production-grade, scalable web applications** with measurable business impact — specializing in **React, FastAPI, PostgreSQL**, and **AI-powered analytics systems**.
 
@@ -13,11 +13,11 @@ I build **production-grade, scalable web applications** with measurable business
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer at **Erasmith Technologies** (1.8+ years)
-- 🤖 Built **AI-powered Text-to-SQL reporting systems** for non-technical users
+- 💼 Full Stack Engineer at **Erasmith Technologies** (**2 years**)
+- 🤖 Built **AI-powered Text-to-SQL analytics systems** for non-technical users
 - 📊 Developed internal enterprise platforms serving **1000+ users**
 - ⚡ Optimized backend & database performance by **45%**
-- 🧪 Reduced QA cycles by **60%** through automation & tooling
+- 🧪 Reduced QA cycles by **60%** through automation
 - 🚀 Delivered **100+ deployments** across production, staging, and internal tools
 - 🎯 Open to **product-based companies & AI-focused startups**
 
@@ -25,9 +25,9 @@ I build **production-grade, scalable web applications** with measurable business
 
 ## 🧠 Why Hire Me
 
-- I convert **complex business workflows into self-serve products**
+- I turn **complex business workflows into self-serve products**
 - I’ve shipped **real systems used daily by real teams**
-- I care about **performance, maintainability, and scale** — not just features
+- I focus on **performance, maintainability, and scale**, not just features
 - I bridge **frontend UX, backend architecture, and AI integration**
 
 ---
@@ -45,39 +45,39 @@ I build **production-grade, scalable web applications** with measurable business
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Databases & Infra
+### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Also Worked With
-Node.js, Express, MongoDB, MySQL, Vercel, Netlify, Highcharts
+Node.js, Express.js, MongoDB, MySQL, Vercel, Netlify, Highcharts
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer — Erasmith Technologies  
+### 🏢 Full Stack Engineer — Erasmith Technologies  
 **Feb 2024 – Present**
 
 #### 🤖 HyphenView — AI-Powered Reporting Console
 - Built an **AI-driven Text-to-SQL analytics platform** enabling natural language queries
 - Designed drag-and-drop report builder with **20+ Highcharts visualizations**
-- Implemented advanced filters: date ranges, AND/OR logic, aggregations
+- Implemented advanced filtering (date ranges, AND/OR logic, aggregations)
 - Automated scheduled reports used by **50+ internal stakeholders**
-- **Impact:**  
-  - 📈 65% increase in self-service analytics  
-  - ⚡ 45% faster query & dashboard performance
+- **Impact:**
+  - 📈 65% increase in self-service analytics adoption  
+  - ⚡ 45% faster query & dashboard performance  
 
 #### 📦 Inventory Management System
 - Architected full-stack system managing **5000+ assets across 20 locations**
-- Built pivot-style views with real-time state sync using Redux Toolkit
-- Handled complex nested inventory & lifecycle states
+- Built pivot-style views with real-time state synchronization using Redux Toolkit
+- Engineered complex state handling for nested inventory lifecycles
 - **Tech:** FastAPI, React, Redux Toolkit, PostgreSQL
 
 #### 🎫 HyphenDesk — Support Ticketing Platform
 - Developed internal ticketing system handling **500+ tickets/month**
-- Implemented SLA tracking, automated routing & notifications
+- Implemented SLA tracking, automated routing, and real-time notifications
 - **Impact:** 40% reduction in response time (4h → 2.4h)
 - **Tech:** FastAPI, React, PostgreSQL
 
@@ -86,10 +86,10 @@ Node.js, Express, MongoDB, MySQL, Vercel, Netlify, Highcharts
 ## 📈 Key Achievements
 
 - 🚀 **100+ Deployments** across production, staging, and internal tools
-- 📊 **45% Performance Improvement** via DB & backend optimization
-- 🎫 **500+ Tickets/Month** handled through custom support platform
-- ⚡ **60% QA Cycle Reduction** through automation
-- 🔄 **10+ Hours/Week Saved** via workflow optimizations
+- 📊 **45% Performance Improvement** via backend & database optimization
+- 🎫 **500+ Tickets/Month** processed through custom support platform
+- ⚡ **60% QA Cycle Reduction** through automated testing
+- 🔄 **10+ Hours/Week Saved** via workflow automation
 
 ---
 
@@ -106,8 +106,8 @@ Node.js, Express, MongoDB, MySQL, Vercel, Netlify, Highcharts
 
 - Next.js 14 & advanced React patterns
 - AI integration (LLM APIs, Text-to-SQL, analytics workflows)
-- Backend performance & scalable system design
-- Building AI-assisted enterprise products
+- Backend performance optimization
+- Scalable system design for enterprise products
 
 ---
 
@@ -116,7 +116,7 @@ Node.js, Express, MongoDB, MySQL, Vercel, Netlify, Highcharts
 - 🐳 **Docker Mastery** — Bret Fisher  
 - 🐍 **100 Days of Code (Python)** — Angela Yu  
 - 🌐 **Complete Web Development Bootcamp** — Hitesh Choudhary  
-- 📊 **Python DSA** — Scott Barrett  
+- 📊 **Python Data Structures & Algorithms** — Scott Barrett  
 
 ---
 
