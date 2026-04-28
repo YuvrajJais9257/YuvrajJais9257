@@ -1,143 +1,151 @@
-# 👋 Hi, I'm Yuvraj Jaiswal
+<div align="center">
 
-**Full Stack Engineer** | React.js + FastAPI | AI-Integrated Systems  
-**2 Years Experience | Enterprise Product Development**
+# Yuvraj Jaiswal
 
-I build **production-grade, scalable web applications** with measurable business impact — specializing in **React, FastAPI, PostgreSQL**, and **AI-powered analytics systems**.
+**Python Developer · AI/LLM Engineer · Agentic AI & RAG Systems**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://yuvrajjaiswal-dev.vercel.app)
+*2+ years shipping production LLM applications, async backend systems, and agentic workflows*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1A56C4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvrajjaiswal-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yuvraj-jaiswal-65ab5a217)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yuvraj8257@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yuvraj8257@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvraj8257@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 Full Stack Engineer at **Erasmith Technologies** (**2 years**)
-- 🤖 Built **AI-powered Text-to-SQL analytics systems** for non-technical users
-- 📊 Developed internal enterprise platforms serving **1000+ users**
-- ⚡ Optimized backend & database performance by **45%**
-- 🧪 Reduced QA cycles by **60%** through automation
-- 🚀 Delivered **100+ deployments** across production, staging, and internal tools
-- 🎯 Open to **product-based companies & AI-focused startups**
+I build **production-grade AI systems** — RAG pipelines, LangChain agents, and LLM-integrated backends — with a focus on reliability, observability, and measurable outcomes.
 
----
-
-## 🧠 Why Hire Me
-
-- I turn **complex business workflows into self-serve products**
-- I’ve shipped **real systems used daily by real teams**
-- I focus on **performance, maintainability, and scale**, not just features
-- I bridge **frontend UX, backend architecture, and AI integration**
+- **Currently:** Python Developer (AI/LLM & Backend) at Erasmith Pvt Ltd, Noida
+- **Shipped:** Agentic Text-to-SQL platform with **65% AI feature adoption** across 50+ active users
+- **Built:** 80+ async FastAPI endpoints with JWT auth, RBAC, rate limiting, and Redis caching
+- **Optimized:** PostgreSQL query performance by **45%** (12s → 6.6s)
+- **Deployed:** 100+ production instances via Docker + CI/CD with 99.9% uptime
+- **Reduced:** QA cycles by **60%** through automated test coverage (Pytest, 80+ endpoints)
+- **Targeting:** AI Application Engineer / Python Backend Engineer roles at product-based companies and AI-focused startups
 
 ---
 
-## 🛠️ Core Tech Stack
+## Core Stack
 
-### Frontend (Primary)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**LLM & AI**
 
-### Backend (Primary)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Groq LLaMA-3](https://img.shields.io/badge/Groq_LLaMA--3-F55036?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0065BD?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Backend**
 
-### Also Worked With
-Node.js, Express.js, MongoDB, MySQL, Vercel, Netlify, Highcharts
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Frontend & DevOps**
 
-## 💼 Professional Experience
-
-### 🏢 Full Stack Engineer — Erasmith Technologies  
-**Feb 2024 – Present**
-
-#### 🤖 HyphenView — AI-Powered Reporting Console
-- Built an **AI-driven Text-to-SQL analytics platform** enabling natural language queries
-- Designed drag-and-drop report builder with **20+ Highcharts visualizations**
-- Implemented advanced filtering (date ranges, AND/OR logic, aggregations)
-- Automated scheduled reports used by **50+ internal stakeholders**
-- **Impact:**
-  - 📈 65% increase in self-service analytics adoption  
-  - ⚡ 45% faster query & dashboard performance  
-
-#### 📦 Inventory Management System
-- Architected full-stack system managing **5000+ assets across 20 locations**
-- Built pivot-style views with real-time state synchronization using Redux Toolkit
-- Engineered complex state handling for nested inventory lifecycles
-- **Tech:** FastAPI, React, Redux Toolkit, PostgreSQL
-
-#### 🎫 HyphenDesk — Support Ticketing Platform
-- Developed internal ticketing system handling **500+ tickets/month**
-- Implemented SLA tracking, automated routing, and real-time notifications
-- **Impact:** 40% reduction in response time (4h → 2.4h)
-- **Tech:** FastAPI, React, PostgreSQL
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📈 Key Achievements
+## Featured Projects
 
-- 🚀 **100+ Deployments** across production, staging, and internal tools
-- 📊 **45% Performance Improvement** via backend & database optimization
-- 🎫 **500+ Tickets/Month** processed through custom support platform
-- ⚡ **60% QA Cycle Reduction** through automated testing
-- 🔄 **10+ Hours/Week Saved** via workflow automation
+### HyphenView — AI-Powered Analytics Platform
+> FastAPI · LangChain · Anthropic Claude · OpenAI GPT-4 · React · PostgreSQL
 
----
+LangChain multi-agent Text-to-SQL platform enabling natural language database queries for non-technical users. Integrated Claude and GPT-4 in parallel for comparative LLM evaluation with full observability — token usage tracking, latency monitoring, structured logging. Includes 40+ REST API endpoints, RBAC, real-time SSE streaming, and 10+ production dashboards.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajJais9257&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajJais9257&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+**65% AI feature adoption · 50+ active production users · 45% query performance improvement**
 
 ---
 
-## 🔥 Current Focus
+### Smart Job Hunter — Autonomous Agentic AI
+> Python · LangChain AgentExecutor · Groq LLaMA-3 · Streamlit
 
-- Next.js 14 & advanced React patterns
-- AI integration (LLM APIs, Text-to-SQL, analytics workflows)
-- Backend performance optimization
-- Scalable system design for enterprise products
+Production-grade autonomous AI agent with tool-calling, multi-step reasoning, and task decomposition. Fetches live job postings and runs NLP-based semantic resume-to-job matching with LLM reasoning chains, explainable scoring, and structured output guardrails.
 
----
-
-## 🎓 Certifications
-
-- 🐳 **Docker Mastery** — Bret Fisher  
-- 🐍 **100 Days of Code (Python)** — Angela Yu  
-- 🌐 **Complete Web Development Bootcamp** — Hitesh Choudhary  
-- 📊 **Python Data Structures & Algorithms** — Scott Barrett  
+**Demonstrates:** agentic design patterns, conditional branching, structured multi-step reasoning
 
 ---
 
-## 📫 Let’s Connect
+### AI Budget-Constrained Shopping Assistant
+> FastAPI · React · LangChain · Groq · Tavily API
 
-<p align="center">
-  <a href="https://yuvrajjaiswal-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yuvraj-jaiswal-65ab5a217">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yuvraj8257@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Tool-using generative AI agent that parses natural language shopping requests and allocates budget across items using priority-weighted strategies. Single LLM call for structured extraction; all budget math handled deterministically in Python (MCP-inspired modular context design). Multi-store search across Amazon, Myntra, Flipkart, Ajio with transparent scoring.
 
-<p align="center">
-  📍 Noida, India • 💼 Open to Opportunities
-</p>
+**Deployed:** Render + Vercel · Full Swagger docs
 
-<p align="center">
-  <i>⭐ Building scalable systems that create real business impact.</i>
-</p>
+---
+
+### Personal AI Knowledge Base — Full-Stack RAG System
+> FastAPI · ChromaDB · LangChain LCEL · NomicEmbeddings · Groq · React
+
+End-to-end RAG pipeline with vector ingestion, semantic retrieval, and streaming LLM responses via async Python. Modular agent orchestration layer with MCP-inspired context management and RAGAS-aligned retrieval evaluation patterns.
+
+---
+
+## Key Metrics
+
+| Area | Result |
+|---|---|
+| AI feature adoption (HyphenView) | 65% across 50+ users |
+| Database query optimization | 45% faster (12s → 6.6s) |
+| Production deployments | 100+ with 99.9% uptime |
+| QA cycle reduction | 60% via automated testing |
+| API endpoints shipped | 80+ async FastAPI endpoints |
+| ETL pipeline throughput | 5,000+ records/run |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajJais9257&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajJais9257&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+## Currently Learning
+
+- **LangGraph** stateful multi-agent workflows (active — Eden Marco, Udemy)
+- **RAG Evaluation** with RAGAS — retrieval quality and faithfulness scoring
+- **LLM Observability** — cost tracking, latency profiling, failure-mode logging
+- **Kubernetes** basics for AI workload orchestration
+
+---
+
+## Certifications
+
+- **LangChain: Agentic AI Engineering** — Eden Marco, Udemy *(in progress)*
+- **Docker Mastery** — Bret Fisher
+- **100 Days of Code: Python** — Dr. Angela Yu *(completed)*
+- **Python DSA** — Scott Barrett
+- **Complete Web Development** — Hitesh Choudhary
+
+---
+
+## Education
+
+**B.Tech Computer Science — AI Specialization**  
+Galgotias College of Engineering & Technology · AKTU · 2020–2025
+
+---
+
+<div align="center">
+
+📍 Noida, India &nbsp;·&nbsp; 💼 Open to AI Application Engineer & Python Backend roles
+
+*Building LLM systems that work in production, not just in demos.*
+
+</div>
